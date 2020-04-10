@@ -1,36 +1,43 @@
 # Lesson 1 - Forking & Cloning
 
-**Repository** - A folder of code, docs, tests, etc.
-
-**Forking** - The process of creating a fork.
-- A Fork is a copy of a repo. </br>
-- Can be used to experiment with someone elses code.
-
-**Cloning** - The process of creating a local copy of a repo on your machine.
+## New Terms
+- **Repository** - A folder of code, docs, tests, etc.
+- **Forking** - The process of creating a fork.
+  - A Fork is a copy of a repo. </br>
+  - Can be used to experiment with someone elses code.
+- **Cloning** - The process of creating a local copy of a repo on your machine.
 
 ## Prerequisites
 - Download and install [Git](https://git-scm.com/downloads)
 
-## Step 1 - Fork a repo
-- Navigate to [GitDemo](https://github.com/jpomfret/GitDemo/) on GitHub
-- Fork the repo for your user
+----
 
-## Step 2 - Clone a repo
+### Stage 1 - Fork a repo
+1. Navigate to [GitDemo](https://github.com/jpomfret/GitDemo/) on GitHub
+2. Fork the repo for your user
 
-- Create a folder to hold your GitHub Repos
+### Stage 2 - Clone a repo
 
-``` PowerShell
-New-Item -Path C:\GitHub -ItemType Directory
-```
+1. Create a folder to hold your GitHub Repos
 
-- Navigate into the folder
+    ``` PowerShell
+    New-Item -Path C:\GitHub -ItemType Directory
+    ```
+
+2. Navigate into the folder
 
 ``` PowerShell
 Set-Location C:\GitHub
 ```
 
-- Clone the newly forked repo
+3. Clone the newly forked repo
 
 ```
 git clone https://github.com/<<USERNAME>>/GitDemo.git
+```
+
+4. Have a look at the status
+
+```
+git status
 ```
