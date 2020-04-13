@@ -1,4 +1,4 @@
-# Lesson 4a - Rebasing your branch
+# Lesson 5 - Rebasing your branch
 
 ## New Terms
 - **Rebase** - Changing the base of your branch
