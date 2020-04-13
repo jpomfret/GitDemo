@@ -2,11 +2,12 @@
 
 ## New Terms
 - **Remote** - Somewhere code is stored, not on your machine. In this case a GitHub Repo.
-- **Upstream** - What we are naming the remote location of the repo we forked.
+    - **Origin** - When we clone a repo the source of that clone is added as this remote location.
+    - **Upstream** - What we are naming the remote location of the original repo we forked.
 - **Fetch** - Git command to retrieve new work from an upstream.
 - **Merge** - Used to combine the fetched changes with your local work.
 - **Pull** - Fetch & Merge in one go.
-- **Push**
+- **Push** - Upload your local changes to a remote repo.
 
 ## Prerequisites
 - Have a repo cloned to your computer - [Lesson 1](../Lessons/Lesson1.md)
@@ -70,8 +71,8 @@ Folks have been working on the jpomfret code base and it's now got newer code th
 3. Check GitHub - your fork should now show you're back in sync.
     > This Branch is even with jpomfret:master.
 
-4. Bye, Bye, Bye.
-
+4. Bye, Bye, Bye. - We're now NSync :D.
 
 ## Next Up...
+
 - [Lesson 3](../Lessons/Lesson3.md)
