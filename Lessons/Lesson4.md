@@ -65,7 +65,7 @@
 
     That didn't work as the checkout would overwrite my changes.
 
-## Stage 2 - Stash changes so you can switch branches
+### Stage 2 - Stash changes so you can switch branches
 
 1. Stash the changes
     ```
@@ -98,7 +98,8 @@
     git stash pop
     ```
 
-7. Now you've made your changes against the most up to date copy of the master branch
+7. Now you've made your changes against the most up to date copy of the master branch.
+8. Add, Commit and Push.
 
 ## Next Up...
 - [Lesson 5](../Lessons/Lesson5.md)

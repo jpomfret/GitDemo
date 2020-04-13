@@ -1,12 +1,20 @@
 TODO
 
+# setup
+   - delete c:\github folder
+   - delete repo  jesspomfret\gitdemo
+
+start of lesson 2
+ - push a change to repo
+
+ end of lesson 3
+  - merge the PR so master is ahead
+
+lesson 4
+ - add file work.ps1
+   Get-Content .\TODO.txt
 
 # Coming soon...
  - setting git username/email
  - git strategy in lesson1
-
-
-
- end of lesson 3
-  - merge a PR so master is ahead
-
+    ?? TALK ABOUT GIT STRATEGY? FORK + CLONE + BRANCH + PR? or JUST CLONE + BRANCH + PR? branch permisisons?
