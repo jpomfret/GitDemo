@@ -11,7 +11,6 @@
 - Download and install [Git](https://git-scm.com/downloads)
 
 ## Lesson
-?? TALK ABOUT GIT STRATEGY? FORK + CLONE + BRANCH + PR? or JUST CLONE + BRANCH + PR? branch permisisons?
 
 ### Stage 1 - Fork a repo
 1. Navigate to [GitDemo](https://github.com/jpomfret/GitDemo/) on GitHub
