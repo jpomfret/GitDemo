@@ -2,6 +2,8 @@
 
 ## New Terms
 - **Branch** - Copy of the code in a more isolated environment. Safe space to make changes.
+- **Checkout** - Used to change branches. If the branch doesn't exist yet you can create it during checkout.
+- **Commit** - Saving your changes. Make sure to include a useful commit message.
 
 ## Prerequisites
 - Make sure your repo is in sync [Lesson 2](../Lessons/Lesson2.md)
@@ -51,7 +53,7 @@
     git status
     ```
 
-5. Commit the change
+5. Commit the change. Make sure to include a useful commit message.
 
     ```
     git commit -m 'adding my name'
@@ -64,3 +66,10 @@
     ```
 
     If you just type `git push` you'll get a message that there isn't a matching branch and you need to use --set-upstream
+
+### Stage 3 - Create a PR
+
+1. Open GitHub and navigate to either your repo or the [upstream repo](https://github.com/jpomfret/GitDemo).
+2. You should see a highlighted bar suggesting you 'Compare & pull request'
+3. Fill in the form and submit the PR for approval.
+4. Upstream repo owner or someone with permissions can merge it in.
