@@ -11,6 +11,7 @@
 - Download and install [Git](https://git-scm.com/downloads)
 
 ## Lesson
+?? TALK ABOUT GIT STRATEGY? FORK + CLONE + BRANCH + PR? or JUST CLONE + BRANCH + PR? branch permisisons?
 
 ### Stage 1 - Fork a repo
 1. Navigate to [GitDemo](https://github.com/jpomfret/GitDemo/) on GitHub
@@ -36,8 +37,17 @@
     git clone https://github.com/<<USERNAME>>/GitDemo.git
     ```
 
-4. Have a look at the status
+4. Navigate into the repo
+
+    ``` PowerShell
+    Set-Location .\GitDemo\
+    ```
+
+5. Have a look at the status
 
     ``` git
     git status
     ```
+
+## Next Up...
+- [Lesson 2](../Lessons/Lesson2.md)
