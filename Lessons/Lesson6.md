@@ -1,4 +1,4 @@
-# Lesson 6 - Cleanup them branches
+# Lesson 6 - Cleanup those branches
 
 ## Prerequisites
 - Worked through the other lessons and left branches all over the place.
