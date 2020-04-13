@@ -1,10 +1,7 @@
 # Lesson 6 - Cleanup them branches
 
-## New Terms
-- **term** -
-
 ## Prerequisites
-- Make sure your repo is in sync - [Lesson 2](../Lessons/Lesson2.md)
+- Worked through the other lessons and left branches all over the place.
 
 ## Lesson
 
