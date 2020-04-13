@@ -7,3 +7,7 @@ Repo for learning Git
 - [Lesson 4](Lessons/Lesson4.md) - Oh G*T - I'm on the wrong branch
 - [Lesson 5](Lessons/Lesson5.md) - Oh G*T - We've got a conflict
 - [Lesson 6](Lessons/Lesson6.md) - Cleanup them branches
+
+
+Friends of the show:
+ - Jess Pomfret
