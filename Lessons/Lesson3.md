@@ -6,7 +6,7 @@
 - **Commit** - Saving your changes. Make sure to include a useful commit message.
 
 ## Prerequisites
-- Make sure your repo is in sync [Lesson 2](../Lessons/Lesson2.md)
+- Make sure your repo is in sync - [Lesson 2](../Lessons/Lesson2.md)
 
 ## Lesson
 
@@ -24,7 +24,7 @@
 
 3. Create a new branch
     ```
-    git checkout -b newFeature
+    git checkout -b addFriends
     ```
 
 ### Stage 2 - Make a change to the code base
@@ -62,7 +62,7 @@
 5. Push changes to your repo
 
     ```
-    git push --set-upstream origin newFeature
+    git push --set-upstream origin addFriends
     ```
 
     If you just type `git push` you'll get a message that there isn't a matching branch and you need to use --set-upstream

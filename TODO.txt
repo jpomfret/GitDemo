@@ -1,0 +1,12 @@
+TODO
+
+
+# Coming soon...
+ - setting git username/email
+ - git strategy in lesson1
+
+
+
+ end of lesson 3
+  - merge a PR so master is ahead
+
