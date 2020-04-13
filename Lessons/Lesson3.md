@@ -73,3 +73,6 @@
 2. You should see a highlighted bar suggesting you 'Compare & pull request'
 3. Fill in the form and submit the PR for approval.
 4. Upstream repo owner or someone with permissions can merge it in.
+
+## Next Up...
+- [Lesson 4](../Lessons/Lesson4.md)

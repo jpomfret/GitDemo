@@ -48,3 +48,6 @@
     ``` git
     git status
     ```
+
+## Next Up...
+- [Lesson 2](../Lessons/Lesson2.md)

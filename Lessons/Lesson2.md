@@ -71,3 +71,7 @@ Folks have been working on the jpomfret code base and it's now got newer code th
     > This Branch is even with jpomfret:master.
 
 4. Bye, Bye, Bye.
+
+
+## Next Up...
+- [Lesson 3](../Lessons/Lesson3.md)
