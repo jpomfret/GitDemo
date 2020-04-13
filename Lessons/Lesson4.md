@@ -1,11 +1,12 @@
 # Lesson 4 - Oh G*T - I'm on the wrong branch
 
 ## New Terms
-- **Stash** -
+- **Stash** - saves your changed files off to a temporary shelf.
+    - **Stash Pop** - get those changes back and apply on top of current branch.
 
 ## Prerequisites
 - Make sure your repo is in sync - [Lesson 2](../Lessons/Lesson2.md)
-- Jess push
+- Admin merge in PR to upstream - so that repo is ahead
 
 ## Lesson
 
@@ -64,32 +65,40 @@
 
     That didn't work as the checkout would overwrite my changes.
 
-7. We can stash the changes
+## Stage 2 - Stash changes so you can switch branches
+
+1. Stash the changes
     ```
     git stash
     ```
 
-8. Now checkout master
+2. Now checkout master
     ```
     git checkout master
     ```
 
-9. Update master
+3. Update master from upstream
     ```
     git pull upstream master
     ```
 
-10. Update your fork on Github (origin).
+4. Update your fork on Github (origin).
     ```
     git push
     ```
 
-11. Un-stash your changes
+5. Create a branch for your new work
+    ```
+    git checkout -b newIdea
+    ```
+
+
+6. Un-stash your changes
     ```
     git stash pop
     ```
 
-12. Now you've made your changes against the most up to date copy of the master branch
+7. Now you've made your changes against the most up to date copy of the master branch
 
 ## Next Up...
 - [Lesson 5](../Lessons/Lesson5.md)
