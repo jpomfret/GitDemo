@@ -8,8 +8,8 @@ Repo for learning Git
 - [Lesson 5](Lessons/Lesson5.md) - Oh G*T - We've got a conflict
 - [Lesson 6](Lessons/Lesson6.md) - Cleanup them branches
 
-- Bonus
+
+
+# Coming soon...
  - setting git username/email
  - git strategy in lesson1
-
-
