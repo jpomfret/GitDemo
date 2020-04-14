@@ -32,7 +32,7 @@
     Get-Content .\todo.txt
     ```
 
-5.  Push to your fork on GitHub
+5.  Add, Commit & Push to your fork on GitHub
     ```
     git push --set-upstream origin rebaseWork
 
