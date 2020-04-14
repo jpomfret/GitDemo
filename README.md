@@ -8,5 +8,3 @@ Repo for learning Git
 - [Lesson 5](Lessons/Lesson5.md) - Rebasing your branch
 - [Lesson 6](Lessons/Lesson6.md) - Cleanup those branches
 
-## Friends of the show
-- Jess Pomfret
